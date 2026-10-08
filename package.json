@@ -1,0 +1,6 @@
+{
+  "name": "sales-dashboard-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "매출·광고 성과 분석 대시보드 — 포트폴리오 데모 (정적 HTML, 가상 샘플 데이터, 외부 의존성·서버 없음)"
+}

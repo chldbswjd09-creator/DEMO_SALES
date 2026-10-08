@@ -1,0 +1,11 @@
+# OS / 편집기
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 로그
+*.log
+
+# 환경변수(데모는 사용하지 않음 — 혹시 생성되어도 커밋 방지)
+.env
+.env.*
